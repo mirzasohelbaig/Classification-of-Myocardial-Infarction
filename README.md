@@ -5,4 +5,13 @@ Myocardial Infarction(Commonly known as “Heart attack”) is one of the most c
 The Given dataset consists of 124 variables with 1700 records of patients. Classify the Lethal outcome (cause) (LET_IS)(Y variable) by using the given dataset. Acceptance Criterion: Need to deploy the end results Milestones:
 
 Milestone Duration:- (1) Kick off and Business Objective discussion : - 1 day , (2) Data set Details:- 1 Week , (3) EDA : - 2 week , (4) Model Building & Evaluation 1 Week :– 1 week , (5) Deployment &Final presentation :- 1 Week ,
+
+Leveraged descriptive statistics and impactful visualizations to provide actionable insights to stakeholders using Tableau.
+
+Implemented diverse machine learning algorithms, including Linear Regression, Regularized Linear Regression, De- cision Tree, and Ensemble of Random Forests, showcasing versatility in model selection and deployment.
+
+Leveraged hyperparameter fine-tuning to optimize model performance, demonstrating a deep understanding of ma- chine learning algorithms.
+
+	Implemented a user-friendly interface using Streamlit for efficient model deployment.
+
  
